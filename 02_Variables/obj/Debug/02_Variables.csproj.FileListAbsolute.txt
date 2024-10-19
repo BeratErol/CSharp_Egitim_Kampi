@@ -1,0 +1,7 @@
+C:\Users\hesap\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\hesap\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\hesap\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\hesap\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\02_Variables.csproj.CoreCompileInputs.cache
+C:\Users\hesap\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\hesap\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\hesap\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\02_Variables.csprojAssemblyReference.cache
