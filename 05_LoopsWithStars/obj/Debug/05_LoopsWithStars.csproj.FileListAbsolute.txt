@@ -1,0 +1,7 @@
+C:\Users\hesap\source\repos\CSharpEgitimKampı\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.exe.config
+C:\Users\hesap\source\repos\CSharpEgitimKampı\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.exe
+C:\Users\hesap\source\repos\CSharpEgitimKampı\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.pdb
+C:\Users\hesap\source\repos\CSharpEgitimKampı\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.csprojAssemblyReference.cache
+C:\Users\hesap\source\repos\CSharpEgitimKampı\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.csproj.CoreCompileInputs.cache
+C:\Users\hesap\source\repos\CSharpEgitimKampı\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.exe
+C:\Users\hesap\source\repos\CSharpEgitimKampı\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.pdb

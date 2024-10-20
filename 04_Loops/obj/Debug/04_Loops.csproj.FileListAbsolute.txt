@@ -1,0 +1,7 @@
+C:\Users\hesap\source\repos\CSharpEgitimKampı\04_Loops\bin\Debug\04_Loops.exe.config
+C:\Users\hesap\source\repos\CSharpEgitimKampı\04_Loops\bin\Debug\04_Loops.exe
+C:\Users\hesap\source\repos\CSharpEgitimKampı\04_Loops\bin\Debug\04_Loops.pdb
+C:\Users\hesap\source\repos\CSharpEgitimKampı\04_Loops\obj\Debug\04_Loops.csprojAssemblyReference.cache
+C:\Users\hesap\source\repos\CSharpEgitimKampı\04_Loops\obj\Debug\04_Loops.csproj.CoreCompileInputs.cache
+C:\Users\hesap\source\repos\CSharpEgitimKampı\04_Loops\obj\Debug\04_Loops.exe
+C:\Users\hesap\source\repos\CSharpEgitimKampı\04_Loops\obj\Debug\04_Loops.pdb
