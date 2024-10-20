@@ -1,2 +1,2 @@
 # CSharp_Egitim_Kamp-
-C# Eğitim Kampı Caseler
+C# Eğitim Kampı Case'leri
