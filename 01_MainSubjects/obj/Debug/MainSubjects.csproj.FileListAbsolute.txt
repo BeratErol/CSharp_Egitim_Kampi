@@ -1,0 +1,6 @@
+C:\Users\hesap\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\hesap\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\hesap\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\hesap\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\MainSubjects.csproj.CoreCompileInputs.cache
+C:\Users\hesap\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\hesap\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
