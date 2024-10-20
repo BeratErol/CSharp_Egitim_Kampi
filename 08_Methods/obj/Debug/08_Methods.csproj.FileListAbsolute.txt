@@ -1,0 +1,7 @@
+C:\Users\hesap\source\repos\CSharpEgitimKampı\08_Methods\bin\Debug\08_Methods.exe.config
+C:\Users\hesap\source\repos\CSharpEgitimKampı\08_Methods\bin\Debug\08_Methods.exe
+C:\Users\hesap\source\repos\CSharpEgitimKampı\08_Methods\bin\Debug\08_Methods.pdb
+C:\Users\hesap\source\repos\CSharpEgitimKampı\08_Methods\obj\Debug\08_Methods.csprojAssemblyReference.cache
+C:\Users\hesap\source\repos\CSharpEgitimKampı\08_Methods\obj\Debug\08_Methods.csproj.CoreCompileInputs.cache
+C:\Users\hesap\source\repos\CSharpEgitimKampı\08_Methods\obj\Debug\08_Methods.exe
+C:\Users\hesap\source\repos\CSharpEgitimKampı\08_Methods\obj\Debug\08_Methods.pdb
