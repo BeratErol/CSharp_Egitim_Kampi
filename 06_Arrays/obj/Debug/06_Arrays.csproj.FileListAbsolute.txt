@@ -1,0 +1,7 @@
+C:\Users\hesap\source\repos\CSharpEgitimKampı\06_Arrays\bin\Debug\06_Arrays.exe.config
+C:\Users\hesap\source\repos\CSharpEgitimKampı\06_Arrays\bin\Debug\06_Arrays.exe
+C:\Users\hesap\source\repos\CSharpEgitimKampı\06_Arrays\bin\Debug\06_Arrays.pdb
+C:\Users\hesap\source\repos\CSharpEgitimKampı\06_Arrays\obj\Debug\06_Arrays.csprojAssemblyReference.cache
+C:\Users\hesap\source\repos\CSharpEgitimKampı\06_Arrays\obj\Debug\06_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\hesap\source\repos\CSharpEgitimKampı\06_Arrays\obj\Debug\06_Arrays.exe
+C:\Users\hesap\source\repos\CSharpEgitimKampı\06_Arrays\obj\Debug\06_Arrays.pdb
