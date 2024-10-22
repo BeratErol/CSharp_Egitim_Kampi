@@ -1,4 +1,4 @@
-                                                   💻 C# EĞİTİM KAMPI PROJELERİ
+                                         💻 C# EĞİTİM KAMPI PROJELERİ
 
 🔅 Bu repoda Murat Yücedağ ile gerçekleştirdiğim C# eğitimindeki derslerin projelerine ve açıklamalarına erişebilirsiniz.
 
