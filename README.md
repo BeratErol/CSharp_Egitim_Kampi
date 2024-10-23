@@ -16,7 +16,7 @@ Double ve char değişkenleri de kullanarak en yaygın değişkenleri; klavyeden
 
 ☑️Proje 4: Döngüler (Loops)
 
-Döngü mantığını pekiştirdim ve for, while döngülerini kullanark basit örnekler yaptım. ➰
+Döngü mantığını pekiştirdim ve for, while döngülerini kullanarak basit örnekler yaptım. ➰
 
 ☑️Proje 5: Yıldızlar ile Döngüler (Loops With Stars)
 
