@@ -1,0 +1,7 @@
+C:\Users\hesap\source\repos\CSharpEgitimKampı\09_DatabaseProject\bin\Debug\09_DatabaseProject.exe.config
+C:\Users\hesap\source\repos\CSharpEgitimKampı\09_DatabaseProject\bin\Debug\09_DatabaseProject.exe
+C:\Users\hesap\source\repos\CSharpEgitimKampı\09_DatabaseProject\bin\Debug\09_DatabaseProject.pdb
+C:\Users\hesap\source\repos\CSharpEgitimKampı\09_DatabaseProject\obj\Debug\09_DatabaseProject.csprojAssemblyReference.cache
+C:\Users\hesap\source\repos\CSharpEgitimKampı\09_DatabaseProject\obj\Debug\09_DatabaseProject.csproj.CoreCompileInputs.cache
+C:\Users\hesap\source\repos\CSharpEgitimKampı\09_DatabaseProject\obj\Debug\09_DatabaseProject.exe
+C:\Users\hesap\source\repos\CSharpEgitimKampı\09_DatabaseProject\obj\Debug\09_DatabaseProject.pdb
