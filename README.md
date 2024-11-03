@@ -36,11 +36,11 @@ Kampın son 101 dersi olan, mantığı dizileri kullanarak bir döngü yapısı 
 
 ✅Proje 9: Veritabanı Projeleri (Database Projects)
 
-Sql'de tablolar oluşturmayı ve bazı özellikleri; kod üzerinden Sql bağlantısı kurmayı; Command, Adapter, DataTable gibi kavramları kullanarak oluşturduğumuz tablodaki verileri listemeleyi öğrendim. Sql ile, kullanılan IDE'den farklı bir araç kullanıp kodu geliştirmek ve farklı şeyler eklemek heyecan verici. ⚡
+SQL'de tablolar oluşturmayı ve bazı özellikleri; kod üzerinden SQL bağlantısı kurmayı; Command, Adapter, DataTable gibi kavramları kullanarak oluşturduğumuz tablodaki verileri listemeleyi öğrendim. SQL ile, kullanılan IDE'den farklı bir araç kullanarak kod geliştirmek, esneklik ve platform bağımsızlığını daha net görmemi sağladı. 👀
 
 ✅Proje 10: Veritabanı ile CRUD Kavramları (Database Crud)
 
-Sql üzerinden oluşturduğumuz tablolarda CRUD yani Create-Read-Update-Delete işlemlerinin hepsini sırasıyla gerçekleştirdim ve kendilerine özgü olan sorgu komutlarını, gerekli adımları kod üzerinde uygulayarak kavradım. Sql'in ne kadar önemli bir yapı olduğunu özelliklerinden faydalandıkça daha net anlayabiliyorum. ⏳ 201 derslerinin sonuna gelidm ve sonraki derslerde katmanlı mimari ile 301 derslerine geçiş yapacağım. 📌
+SQL üzerinden oluşturduğumuz tablolarda CRUD yani Create-Read-Update-Delete işlemlerinin hepsini sırasıyla gerçekleştirdim ve kendilerine özgü olan sorgu komutlarını, gerekli adımları kod üzerinde uygulayarak kavradım. 201 derslerinin sonuna geldim ve sonraki derslerde katmanlı mimari ile 301 derslerine geçiş yapacağım. ⏳
 
 
 
