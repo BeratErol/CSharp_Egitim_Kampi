@@ -1,0 +1,7 @@
+C:\Users\hesap\source\repos\CSharpEgitimKampı\10_DatabaseCrud\bin\Debug\10_DatabaseCrud.exe.config
+C:\Users\hesap\source\repos\CSharpEgitimKampı\10_DatabaseCrud\bin\Debug\10_DatabaseCrud.exe
+C:\Users\hesap\source\repos\CSharpEgitimKampı\10_DatabaseCrud\bin\Debug\10_DatabaseCrud.pdb
+C:\Users\hesap\source\repos\CSharpEgitimKampı\10_DatabaseCrud\obj\Debug\10_DatabaseCrud.csprojAssemblyReference.cache
+C:\Users\hesap\source\repos\CSharpEgitimKampı\10_DatabaseCrud\obj\Debug\10_DatabaseCrud.csproj.CoreCompileInputs.cache
+C:\Users\hesap\source\repos\CSharpEgitimKampı\10_DatabaseCrud\obj\Debug\10_DatabaseCrud.exe
+C:\Users\hesap\source\repos\CSharpEgitimKampı\10_DatabaseCrud\obj\Debug\10_DatabaseCrud.pdb
